@@ -1,0 +1,13 @@
+G:\snake ladder\snake-ladder\UC3_Check For An Option\check for the option\check for the option\bin\Debug\netcoreapp3.1\check for the option.exe
+G:\snake ladder\snake-ladder\UC3_Check For An Option\check for the option\check for the option\bin\Debug\netcoreapp3.1\check for the option.deps.json
+G:\snake ladder\snake-ladder\UC3_Check For An Option\check for the option\check for the option\bin\Debug\netcoreapp3.1\check for the option.runtimeconfig.json
+G:\snake ladder\snake-ladder\UC3_Check For An Option\check for the option\check for the option\bin\Debug\netcoreapp3.1\check for the option.runtimeconfig.dev.json
+G:\snake ladder\snake-ladder\UC3_Check For An Option\check for the option\check for the option\bin\Debug\netcoreapp3.1\check for the option.dll
+G:\snake ladder\snake-ladder\UC3_Check For An Option\check for the option\check for the option\bin\Debug\netcoreapp3.1\check for the option.pdb
+G:\snake ladder\snake-ladder\UC3_Check For An Option\check for the option\check for the option\obj\Debug\netcoreapp3.1\check for the option.csprojAssemblyReference.cache
+G:\snake ladder\snake-ladder\UC3_Check For An Option\check for the option\check for the option\obj\Debug\netcoreapp3.1\check for the option.AssemblyInfoInputs.cache
+G:\snake ladder\snake-ladder\UC3_Check For An Option\check for the option\check for the option\obj\Debug\netcoreapp3.1\check for the option.AssemblyInfo.cs
+G:\snake ladder\snake-ladder\UC3_Check For An Option\check for the option\check for the option\obj\Debug\netcoreapp3.1\check for the option.csproj.CoreCompileInputs.cache
+G:\snake ladder\snake-ladder\UC3_Check For An Option\check for the option\check for the option\obj\Debug\netcoreapp3.1\check for the option.dll
+G:\snake ladder\snake-ladder\UC3_Check For An Option\check for the option\check for the option\obj\Debug\netcoreapp3.1\check for the option.pdb
+G:\snake ladder\snake-ladder\UC3_Check For An Option\check for the option\check for the option\obj\Debug\netcoreapp3.1\check for the option.genruntimeconfig.cache
