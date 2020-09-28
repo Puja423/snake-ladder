@@ -1,0 +1,12 @@
+G:\snake ladder\snake-ladder\UC2_Player Roll the die\player roll the die\player roll the die\obj\Debug\netcoreapp3.1\player roll the die.AssemblyInfoInputs.cache
+G:\snake ladder\snake-ladder\UC2_Player Roll the die\player roll the die\player roll the die\obj\Debug\netcoreapp3.1\player roll the die.AssemblyInfo.cs
+G:\snake ladder\snake-ladder\UC2_Player Roll the die\player roll the die\player roll the die\obj\Debug\netcoreapp3.1\player roll the die.csproj.CoreCompileInputs.cache
+G:\snake ladder\snake-ladder\UC2_Player Roll the die\player roll the die\player roll the die\bin\Debug\netcoreapp3.1\player roll the die.exe
+G:\snake ladder\snake-ladder\UC2_Player Roll the die\player roll the die\player roll the die\bin\Debug\netcoreapp3.1\player roll the die.deps.json
+G:\snake ladder\snake-ladder\UC2_Player Roll the die\player roll the die\player roll the die\bin\Debug\netcoreapp3.1\player roll the die.runtimeconfig.json
+G:\snake ladder\snake-ladder\UC2_Player Roll the die\player roll the die\player roll the die\bin\Debug\netcoreapp3.1\player roll the die.runtimeconfig.dev.json
+G:\snake ladder\snake-ladder\UC2_Player Roll the die\player roll the die\player roll the die\bin\Debug\netcoreapp3.1\player roll the die.dll
+G:\snake ladder\snake-ladder\UC2_Player Roll the die\player roll the die\player roll the die\bin\Debug\netcoreapp3.1\player roll the die.pdb
+G:\snake ladder\snake-ladder\UC2_Player Roll the die\player roll the die\player roll the die\obj\Debug\netcoreapp3.1\player roll the die.dll
+G:\snake ladder\snake-ladder\UC2_Player Roll the die\player roll the die\player roll the die\obj\Debug\netcoreapp3.1\player roll the die.pdb
+G:\snake ladder\snake-ladder\UC2_Player Roll the die\player roll the die\player roll the die\obj\Debug\netcoreapp3.1\player roll the die.genruntimeconfig.cache
